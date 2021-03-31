@@ -1,6 +1,8 @@
 # VB6_Self-study_Examinations
 - 自考vb程序设计
-- 
+- 10281 visual basic程序设计
+- 01264 visual basic数据库应用
+
 
 ## 理论方面
 - 一期理论.md
