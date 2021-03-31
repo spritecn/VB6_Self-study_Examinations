@@ -1,5 +1,5 @@
 # VB6_Self-study_Examinations
-- 自考vb程序设计
+- 4082207　计算机信息管理　自考
 ## 21年4月需考项目/一期
 - 10281 visual basic程序设计
 
