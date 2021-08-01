@@ -1,0 +1,1 @@
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source=Z:\github\VB6_Self-study_Examinations\上机作业\Access学生信息浏览\db.mdb;Mode=ReadWrite;Persist Security Info=False

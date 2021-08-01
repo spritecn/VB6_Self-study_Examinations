@@ -137,7 +137,7 @@
 - Xor 异或　两个操作数不同时即为True
 - Imp 表示蕴含　仅 True　imp False 才为true
 ## 常用函数
-- Val  将输入转换为数组值
+- Val  将输入转换为数值
 - inputBOx
 - msgBox
 ### 字符串
